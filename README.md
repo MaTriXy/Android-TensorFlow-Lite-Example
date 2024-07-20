@@ -4,7 +4,7 @@
 * This is an example project for integrating TensorFlow Lite into Android application
 * This project include an example for object detection for an image taken from camera using TensorFlow Lite library.
 
-## [My Personal Blog - amitshekhar.me](https://amitshekhar.me/blog) - High-quality content to learn Android concepts.
+## [Outcome School Blog](https://outcomeschool.com/blog) - High-quality content to learn Android concepts.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/keyboard_example.png" width="250">
