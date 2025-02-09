@@ -1,15 +1,10 @@
 # Android TensorFlow Lite Machine Learning Example
 
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/blob/master/LICENSE)
-
 ##  About Android TensorFlow Lite Machine Learning Example
-* This is an example project for integrating [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/) into Android application
+* This is an example project for integrating TensorFlow Lite into Android application
 * This project include an example for object detection for an image taken from camera using TensorFlow Lite library.
 
-# [Read this article. It describes everything about TensorFlow Lite for Android.](https://letslearnai.com/2018/03/17/android-tensorflow-lite-machine-learning-example.html)
+## [Outcome School Blog](https://outcomeschool.com/blog) - High-quality content to learn Android concepts.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/keyboard_example.png" width="250">
@@ -26,11 +21,9 @@
 ### Credits
 * The classifier example has been taken from Google TensorFlow example.
 
-[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
-
 ### License
 ```
-   Copyright (C) 2018 MINDORKS NEXTGEN PRIVATE LIMITED
+   Copyright (C) 2022 Amit Shekhar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -47,3 +40,4 @@
 
 ### Contributing to Android TensorFlow Lite Machine Learning Example
 Just make pull request. You are in!
+
